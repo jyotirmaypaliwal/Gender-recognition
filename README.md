@@ -9,3 +9,5 @@
 ## Result
 ### After training the model we got an accuracy of 89.12%.
 
+## Extra
+### Feel free to contact me if you have any question regarding my project.
