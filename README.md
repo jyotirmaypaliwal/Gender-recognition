@@ -60,7 +60,7 @@ epoch:  19  loss:  15.98683486878872
 
 
 ## Result
-### After training the model we got an accuracy of 89.12% with a loss of 6.5 on our testing set.
+### After training the model we got an accuracy of 89.12% with a loss of 6.5 on our testing set as we correctly predicted 4456 times out of 5000.
 
 ## Extra
 ### Feel free to contact me if you have any question regarding my project.
