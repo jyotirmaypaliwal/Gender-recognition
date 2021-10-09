@@ -19,25 +19,45 @@ Inception-v3 - https://paperswithcode.com/method/inception-v3
 
 ## Epoch
 epoch:  0  loss:  31.90118408203125
+
 epoch:  1  loss:  21.96202689409256
+
 epoch:  2  loss:  19.68941020965576
+
 epoch:  3  loss:  18.416278690099716
+
 epoch:  4  loss:  18.11962977051735
+
 epoch:  5  loss:  17.506986767053604
+
 epoch:  6  loss:  17.26776686310768
+
 epoch:  7  loss:  16.866083472967148
+
 epoch:  8  loss:  16.82055914402008
+
 epoch:  9  loss:  16.619915008544922
+
 epoch:  10  loss:  16.39333549141884
+
 epoch:  11  loss:  16.517942115664482
+
 epoch:  12  loss:  16.329740971326828
+
 epoch:  13  loss:  16.125786915421486
+
 epoch:  14  loss:  15.839764282107353
+
 epoch:  15  loss:  15.944547951221466
+
 epoch:  16  loss:  16.04625627398491
+
 epoch:  17  loss:  16.097503557801247
+
 epoch:  18  loss:  16.122184738516808
+
 epoch:  19  loss:  15.98683486878872
+
 
 ## Result
 ### After training the model we got an accuracy of 89.12% with a loss of 6.5 on our testing set.
