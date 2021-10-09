@@ -15,6 +15,7 @@
 ### I trained the model using a batch size of 200 and using 20 epochs with a learning rate of 0.001. I also tried learning rates of 0.01 and 0.0001 but they were either too big for the job or just too small. 
 
 Data - https://www.kaggle.com/jessicali9530/celeba-dataset
+
 Inception-v3 - https://paperswithcode.com/method/inception-v3
 
 ## Epoch
