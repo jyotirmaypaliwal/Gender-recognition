@@ -65,3 +65,4 @@ epoch:  19  loss:  15.98683486878872
 
 ## Extra
 ### Feel free to contact me if you have any question regarding my project.
+### I have also included it's Python file.
