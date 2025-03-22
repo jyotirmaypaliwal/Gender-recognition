@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import seaborn as sns
 
-# Other useful libraries
+# Libraries to interact with the OS
 import os
 import sys
 

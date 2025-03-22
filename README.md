@@ -2,7 +2,7 @@
 
 ### Using the data from **CelebFaces Attributes (CelebA) Dataset** which consists of 202,599 images with 40 attributes, I trained an **Inception-v3** model with some custom composed output classes to recognize different gender in images.
 
-## Inception-v3
+## Inception-v3 Model
 
 ![inception-v3](https://user-images.githubusercontent.com/27720480/136644979-7acad130-2bd9-4a28-a5bd-94026f4fd4e2.jpg)
 
